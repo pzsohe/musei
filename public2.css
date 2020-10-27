@@ -1,0 +1,32 @@
+
+.main-part {
+    background: #F8FAFC;
+padding-top: 100px;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-left: 80px;
+    margin-right: 80px;
+    grid-gap: 24px;
+    padding-bottom: 328px;
+
+}
+.part > img {
+    width: 100%
+}
+
+.part-wrapper__title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+}
+ .part {
+     top: 20px;
+     right: 100px;
+     background: white;
+     border-radius: 8px;
+     box-shadow: 0px 2px 6px rgba(19, 23, 29, 0.04), 0px 4px 12px rgba(19, 23, 29, 0.04);
+     padding: 24px;
+ }

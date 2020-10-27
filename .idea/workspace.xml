@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f95ae1f-4b8c-46a6-823d-f84a85d32739" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1iKOvcz7pM9fk2sqXIPoHocsCZZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Оля\Desktop\musei\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f95ae1f-4b8c-46a6-823d-f84a85d32739" name="Default Changelist" comment="" />
+      <created>1601653049144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601653049144</updated>
+      <workItem from="1601653050191" duration="7778000" />
+      <workItem from="1601724235664" duration="998000" />
+      <workItem from="1601730998851" duration="8485000" />
+      <workItem from="1601746170551" duration="67000" />
+      <workItem from="1601752342658" duration="93000" />
+      <workItem from="1601820470580" duration="3802000" />
+      <workItem from="1602010953088" duration="202000" />
+      <workItem from="1602255737212" duration="12475000" />
+      <workItem from="1603824108730" duration="595000" />
+      <workItem from="1603825874847" duration="1497000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="126" key="FileChooserDialogImpl" timestamp="1603827365027">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="126" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1603827365027" />
+    <state x="561" y="282" key="Github.ShareDialog" timestamp="1603827110227">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="561" y="282" key="Github.ShareDialog/0.0.1366.768@0.0.1366.768" timestamp="1603827110227" />
+    <state x="184" y="29" key="SettingsEditor" timestamp="1603827374403">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1603827374403" />
+    <state x="495" y="70" key="svn.repositoryBrowser" timestamp="1603826745912">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="495" y="70" key="svn.repositoryBrowser/0.0.1366.768@0.0.1366.768" timestamp="1603826745912" />
+  </component>
+</project>

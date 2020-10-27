@@ -1,0 +1,147 @@
+:root {
+  --color-primary: #469bf7;
+  --color-text: #2b3441;
+}
+
+body {
+  font-family: Roboto;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: var(--color-primary);
+  width: 125px;
+  height: 48px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 26px;
+  line-height: 24px;
+}
+h2 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 20px;
+}
+a {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  color: var(--color-primary);
+}
+.map-wrapper {
+  padding-left: 80px;
+  padding-right: 80px;
+  margin-bottom: 120px;
+  position: relative
+}
+
+.map-wrapper img {
+  width: 100%;
+}
+
+.header {
+  padding-left: 80px;
+  padding-right: 80px;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 21px;
+  padding-bottom: 21px;
+  align-items: center;
+}
+.header__right-column {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  color: var(--color-primary);
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 26px;
+  line-height: 24px;
+}
+.button--primary {
+  background: var(--color-primary);
+  border-radius: 8px;
+  padding: 8px 20px;
+  color: #fff;
+  border: none;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+}
+
+.menu {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+}
+.menu span {
+  margin-left: 28px;
+  margin-right: 28px;
+}
+
+.header__right-column button {
+  margin-left: 28px;
+}
+
+.section {
+  padding-left: 80px;
+  padding-right: 80px;
+}
+.section__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 60px;
+}
+
+.news {
+  display: flex;
+}
+.news__item {
+  margin-right: 12px;
+  margin-left: 12px;
+}
+
+.news__item:first-child {
+  margin-left: 0;
+}
+.news__item:last-child {
+  margin-right: 0;
+}
+
+.news__item img {
+  width: 100%;
+}
+.news__item .date {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: var(--color-text);
+}
+.news__item .title {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+}
+.news__item .description {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+}
